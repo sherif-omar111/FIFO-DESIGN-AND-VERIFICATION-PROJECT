@@ -1,6 +1,6 @@
 # Design and Verification using UVM for FIFO 
-A FIFO (First-In First-Out) is a memory-based data structure used to temporarily store and manage data between systems or modules that operate at different speeds or in different clock domains. In digital design, it's often implemented as a queue that follows the principle: 
-- "The first data written into the FIFO is the first data to be read out."
+A FIFO (First-In First-Out) is a memory-based data structure used to temporarily store and manage data between systems or modules that operate at different speeds or in different clock domains. 
+This project involves the Universal Verification Methodology (UVM) verification of a Synchronous FIFO design.
 
 ## 1. Directories:
 - rtl               : rtl design.
