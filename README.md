@@ -12,7 +12,7 @@
 
 ## 2. System Architecture:
 
-![image]()
+![image](images/fifo_diagram.jpg)
 
 ## 3. Interface signals:
 | Signal name   | Direction | Signal width  | Description                      
@@ -28,7 +28,7 @@
 
 ## 4. UVM Architecture:
 
-![image]()
+![image](images/uvm_arch.PNG)
 
 ## 5. Sequence items:
 
