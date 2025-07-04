@@ -55,14 +55,12 @@ fifo_seq_item
 | fifo_test_all         | reset_sequence -> write_sequence -> read_sequence -> write_read_sequence -> random_sequence
 
 ### Test all 
-![image]()
-
-## 8. Assertions:
-
-![image]()
+![image](images/test_all.PNG)
 
 
-## 9. Coverage:
+## 8. Coverage:
 
-![image]()
+![image](images/coverage.PNG)
+
+![image](images/cover.PNG)
 
